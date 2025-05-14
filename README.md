@@ -3,7 +3,7 @@
 ## 💻 About Me
 I'm a passionate developer who loves building meaningful, scalable, and beautifully designed digital experiences. I value tradition but never stop moving forward — clean code, clear purpose.
 
-- 🔭 Currently working on: [My Cool Project](https://github.com/yourusername/yourproject)
+- 🔭 Currently working on: [My Cool Project](https://github.com/lurenzawashere)
 - 🌱 Currently learning: TypeScript, Next.js, and Systems Design
 - 🛠️ I mostly work with: Python, JavaScript, C#, React, and SQL
 - 🧠 Motto: *"Build for purpose, not for hype."*
@@ -16,16 +16,8 @@ I'm a passionate developer who loves building meaningful, scalable, and beautifu
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=2077" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=2077" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=2077&utcOffset=3" />
-</p>
-
+![Sanchez's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ## 🔗 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourname)
