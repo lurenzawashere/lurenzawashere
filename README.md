@@ -3,7 +3,7 @@
 ## 💻 About Me
 I'm a passionate developer who loves building meaningful, scalable, and beautifully designed digital experiences. I value tradition but never stop moving forward — clean code, clear purpose.
 
-- 🔭 Currently working on: [Noran Welcome]([https://github.com/lurenzawashere](https://github.com/lurenzawashere/Noran-Welcome))
+- 🔭 Currently working on: [Noran Welcome](https://github.com/lurenzawashere/Noran-Welcome)
 - 🌱 Currently learning: TypeScript, Next.js, and Systems Design
 - 🛠️ I mostly work with: Python, JavaScript, C#, React, and SQL
 - 🧠 Motto: *"Build for purpose, not for hype."*
